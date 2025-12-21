@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Keep the gitignore itself
+!.gitignore
+
+# Keep v2 and its backup files in root
+!v2.mdl
+!v2.mdl.*
