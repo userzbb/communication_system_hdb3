@@ -7,3 +7,4 @@
 # Keep v2 and its backup files in root
 !v2.mdl
 !v2.mdl.*
+!README.md
